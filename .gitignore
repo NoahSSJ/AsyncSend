@@ -1,0 +1,8 @@
+.env
+/core/send.py
+/core/send_tmp.py
+/temp
+config.yaml
+__pycache__
+package-lock.json
+package.json
