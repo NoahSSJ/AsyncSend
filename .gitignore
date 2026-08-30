@@ -1,6 +1,7 @@
 .env
 /core/send.py
 /core/send_tmp.py
+/core/crypto.js
 /temp
 config.yaml
 __pycache__
